@@ -92,9 +92,3 @@ This project demonstrates how web scraping can be leveraged to gather and analyz
 - Perform sentiment analysis on movie reviews.
 - Apply machine learning models to predict movie ratings based on other features.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This structure should give a comprehensive overview of your project in the README file. Feel free to adjust any details according to your needs.
