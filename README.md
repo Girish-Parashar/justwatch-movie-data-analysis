@@ -92,3 +92,20 @@ This project demonstrates how web scraping can be leveraged to gather and analyz
 - Perform sentiment analysis on movie reviews.
 - Apply machine learning models to predict movie ratings based on other features.
 
+## Data Visualizations
+
+### 1. Showing the Count of Movies per Genre
+![Bar Chart](1_Showing%20the%20count%20of%20movies%20per%20genre.png)
+
+### 2. Distribution of IMDb Ratings
+![Bar Chart](2_Distribution%20of%20IMDb%20ratings.png)
+
+### 3. Facet Grid with Histograms
+![Bar Chart](4%20Facet%20Grid%20with%20Histograms.png)
+
+### 4. Pair Plot of Numeric Features
+![Bar Chart](6%20Pair%20Plot%20of%20Numeric%20Features.png)
+
+
+
+
