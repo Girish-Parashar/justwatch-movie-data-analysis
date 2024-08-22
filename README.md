@@ -1,7 +1,3 @@
-Here's a detailed outline for your README file:
-
----
-
 # JustWatch Movie Data Analysis
 
 ## Project Overview
